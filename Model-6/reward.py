@@ -13,6 +13,7 @@ def reward_function(params):
     ###############################################################################
     '''
     Example of using waypoints and heading to make the car point in the right direction
+    Penalize if off track / crashed / reversed
     '''
 
     # Read input variables

@@ -1,12 +1,3 @@
-# Place import statement outside of function (supported libraries: math, random, numpy, scipy, and shapely)
-# Example imports of available libraries
-#
-# import math
-# import random
-# import numpy
-# import scipy
-# import shapely
-
 import math
 
 def reward_function(params):
